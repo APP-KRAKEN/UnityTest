@@ -5,7 +5,7 @@
     "CustomGitPath": "",
     "CheckpointRetentionWeeks": 2,
     "PlanExecutionPromptDismissed": false,
-    "CheckpointDiscoveryBannerDismissed": true,
+    "CheckpointDiscoveryBannerDismissed": false,
     "CheckpointDiscoveryUserDisabled": false,
     "CheckpointDiscoveryFlowStarted": true
 }
